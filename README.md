@@ -7,19 +7,10 @@ This project uses unsupervised machine learning techniques to cluster cryptocurr
 ## Table of Contents
 
 * [Installation](#installation)
-* [Project Structure](#project-structure)
 * [Data](#data)
+* [Structure](#structure)
 * [Methodology](#methodology)
-* [Steps and Code](#steps-and-code)
-  * [1. Data Preprocessing](#1-data-preprocessing)
-  * [2. Scaling the Data](#2-scaling-the-data)
-  * [3. PCA for Dimensionality Reduction](#3-pca-for-dimensionality-reduction)
-  * [4. K-Means Clustering](#4-k-means-clustering)
-  * [5. Evaluation and Elbow Curve](#5-evaluation-and-elbow-curve)
-  * [6. Visualization](#6-visualization)
 * [Results](#results)
-* [Conclusion](#conclusion)
-* [License](#license)
 
 ## Installation
 
